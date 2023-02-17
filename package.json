@@ -1,0 +1,22 @@
+{
+  "name": "capital-valley-website",
+  "version": "1.0.0",
+  "description": "server for the website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ixcayau/capital-valley-website.git"
+  },
+  "author": "Diana Menendez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ixcayau/capital-valley-website/issues"
+  },
+  "homepage": "https://github.com/ixcayau/capital-valley-website#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
