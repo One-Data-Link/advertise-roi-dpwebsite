@@ -2,7 +2,7 @@
   "name": "capital-valley-website",
   "version": "1.0.0",
   "description": "server for the website",
-  "main": "index.js",
+  "main": "node index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
